@@ -1,4 +1,5 @@
-﻿#include<iostream>
+﻿//changed by LGH
+#include<iostream>
 using namespace std;
 
 int main()
