@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    int a=0;
+    int a=2018;
     return 0;
 }
